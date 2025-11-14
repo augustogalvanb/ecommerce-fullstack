@@ -471,7 +471,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
+**Augusto Galván**
 - GitHub: [@augustogalvanb](https://github.com/augustogalvanb)
 - LinkedIn: [Mi Perfil](https://linkedin.com/in/augustogalvanb)
 - Email: augusto_galvan@outlook.com
