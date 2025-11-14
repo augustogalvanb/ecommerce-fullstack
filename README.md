@@ -472,9 +472,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu-email@ejemplo.com
+- GitHub: [@augustogalvanb](https://github.com/augustogalvanb)
+- LinkedIn: [Mi Perfil](https://linkedin.com/in/augustogalvanb)
+- Email: augusto_galvan@outlook.com
 
 ---
 
