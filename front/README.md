@@ -630,25 +630,6 @@ Similar a Vercel:
 - Best Practices: 90+
 - SEO: 90+
 
----
-
-## 🎯 Próximas Mejoras
-
-### Funcionalidades pendientes:
-
-- [ ] PWA (Progressive Web App)
-- [ ] Búsqueda avanzada con filtros
-- [ ] Wishlist (lista de deseos)
-- [ ] Reviews de productos
-- [ ] Sistema de cupones
-- [ ] Chat de soporte
-- [ ] Notificaciones push
-- [ ] Internacionalización (i18n)
-- [ ] Dark mode
-- [ ] Comparador de productos
-
----
-
 ## 🧪 Testing
 
 ```bash
@@ -677,21 +658,3 @@ npm run test:e2e
 - [React Hook Form](https://react-hook-form.com/)
 - [Zod](https://zod.dev/)
 - [Mercado Pago SDK](https://www.mercadopago.com.ar/developers/es/docs/checkout-api/integration-configuration/card/integrate-via-cardform)
-
----
-
-## 🤝 Contribuir
-
-Ver [README principal](../README.md) para guías de contribución.
-
----
-
-## 📝 Notas de Versión
-
-### v1.0.0
-- ✅ Catálogo de productos con filtros
-- ✅ Carrito persistente
-- ✅ Checkout y pago con tarjeta
-- ✅ Panel de administración completo
-- ✅ Diseño responsive
-- ✅ Integración con Mercado Pago
