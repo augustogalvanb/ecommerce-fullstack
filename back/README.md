@@ -10,11 +10,8 @@ Backend del E-commerce desarrollado con NestJS, Prisma, PostgreSQL y TypeScript.
 - [Características](#-características)
 - [Requisitos](#-requisitos)
 - [Instalación](#-instalación)
-- [Configuración](#-configuración)
-- [Base de Datos](#-base-de-datos)
 - [Ejecución](#-ejecución)
 - [Endpoints](#-endpoints)
-- [Arquitectura](#-arquitectura)
 - [Testing](#-testing)
 - [Deployment](#-deployment)
 
