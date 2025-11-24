@@ -1,6 +1,10 @@
-# E-Commerce Full Stack
+# 🛒 E-commerce Full Stack - TechStore
 
-Plataforma completa de comercio electrónico desarrollada con tecnologías modernas. Sistema robusto que incluye catálogo de productos, gestión de pedidos, procesamiento de pagos con MercadoPago, y panel de administración completo.
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## Descripción General
 
@@ -153,7 +157,7 @@ cp .env.example .env
 **Configuración del `.env` del frontend:**
 - `VITE_API_URL`: URL del backend (ej: `http://localhost:3000/api`)
 - `VITE_MERCADOPAGO_PUBLIC_KEY`: Public key de MercadoPago (TEST para desarrollo)
-- `VITE_STORE_NAME`: Nombre de tu tienda
+- `VITE_STORE_NAME`: TechStore
 
 Ver documentación completa en [`front/README.md`](./front/README.md)
 
@@ -212,30 +216,6 @@ Integraciones externas:
 - Cloudinary (almacenamiento de imágenes)
 - MercadoPago (procesamiento de pagos + webhooks)
 - SMTP (envío de emails transaccionales)
-```
-
-## Testing
-
-### Backend
-```bash
-cd back
-
-# Tests unitarios
-npm run test
-
-# Tests e2e
-npm run test:e2e
-
-# Cobertura
-npm run test:cov
-```
-
-### Frontend
-```bash
-cd front
-
-# Linting
-npm run lint
 ```
 
 ## Build para Producción
@@ -335,22 +315,6 @@ npm run prisma:migrate
 
 - [Documentación detallada del Backend](./back/README.md)
 - [Documentación detallada del Frontend](./front/README.md)
-
-## Contribuir
-
-1. Fork del repositorio
-2. Crear una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
-
-## Licencia
-
-Este proyecto es de código privado.
-
-## Soporte
-
-Para preguntas o problemas, por favor abre un issue en el repositorio o contacta al equipo de desarrollo.
 
 ---
 
