@@ -1,4 +1,4 @@
-# Backend - E-Commerce API
+# 🔧 E-commerce Backend - API RESTful
 
 API REST desarrollada con NestJS para gestionar un sistema completo de comercio electrónico, incluyendo autenticación, gestión de productos, procesamiento de pedidos e integración con servicios externos.
 
@@ -268,11 +268,6 @@ npm run format
    - Realizar pago con MercadoPago
    - Recibir confirmación por email
 
-3. **Webhooks**:
-   - MercadoPago notifica el estado del pago
-   - Se actualiza el estado del pedido automáticamente
-   - Se envía email de confirmación al cliente
-
 ## Consideraciones de Seguridad
 
 - Todas las rutas administrativas están protegidas con JWT
@@ -301,7 +296,3 @@ Si usas Gmail, necesitas generar una "App Password" en tu cuenta de Google.
 - [Documentación de Prisma](https://www.prisma.io/docs/)
 - [Documentación de MercadoPago](https://www.mercadopago.com.ar/developers/es)
 - [Documentación de Cloudinary](https://cloudinary.com/documentation)
-
-## Licencia
-
-UNLICENSED
