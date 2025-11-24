@@ -1,4 +1,4 @@
-# Frontend - E-Commerce
+# 🎨 E-commerce Frontend - React + TypeScript
 
 Aplicación web moderna desarrollada con React y Vite para un sistema completo de comercio electrónico. Incluye catálogo de productos, carrito de compras, integración con MercadoPago y panel de administración.
 
@@ -155,10 +155,6 @@ El proyecto utiliza **Zustand** para la gestión de estado global:
 - Cálculo automático de totales
 - Actualización de cantidades
 
-### Products Store (opcional)
-- Caché de productos
-- Filtros y búsquedas
-
 ## Servicios API
 
 Los servicios están organizados por recursos en la carpeta `services/`:
@@ -302,18 +298,3 @@ node --version  # Debe ser >= 18
 - [Documentación de Zustand](https://docs.pmnd.rs/zustand/)
 - [Documentación de React Hook Form](https://react-hook-form.com/)
 - [Documentación de MercadoPago](https://www.mercadopago.com/developers)
-
-## Próximas Mejoras
-
-- [ ] Sistema de búsqueda avanzada
-- [ ] Wishlist de productos favoritos
-- [ ] Historial de pedidos para clientes
-- [ ] Sistema de reviews y ratings
-- [ ] Notificaciones push
-- [ ] Chat de soporte en vivo
-- [ ] Multi-idioma (i18n)
-- [ ] Modo oscuro
-
-## Licencia
-
-Private
